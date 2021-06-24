@@ -81,7 +81,7 @@
   + 第二種 - 依資料的類型所佔比例，決定抽樣個數
 </br>
 
-## 維動縮減 Dimensionality Reduction
+## 維度縮減 Dimensionality Reduction
 + 資料分類或分群時，資料密度 及 樣本點距離 是重要的參考  
   若維度太多會失去它的意義
 + 降低演算法所需時間 和 記憶體
