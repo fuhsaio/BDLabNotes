@@ -52,12 +52,16 @@
 > 最小的相異度 時常是 0  
 > 值介於 0 - ∞ (對象不同)  
 
-## 相關係數 Correlation coefficient
-### Pearson
-### Cosine
-### SMC
-### Jaccard
-### Extended Jaccard ( Tanimoto )
+## 運算
+
+> SMC、Jaccard 僅用於 二元屬性的資料  
++ **Pearson**
++ **Cosine**
++ **SMC**
++ **Jaccard**
++ **Extended Jaccard ( Tanimoto )**
+
+</br>
 
 ---
 ### 歐基里德 距離
@@ -83,14 +87,11 @@
 > 切比雪夫距離 ( r = ∞ )  
 > <img src="https://user-images.githubusercontent.com/86312099/123499494-d5b12a80-d669-11eb-9f86-2b3d475518a6.png">
 
-</br>
-
 ---
+
 ### Mahalanobis 距離(待補充)
 
-</br>
-</br>
-</br>
+</br></br></br>
 
 ## Metric 度量(指標)
 > 當距離滿足以下條件，則稱為 metric
