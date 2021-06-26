@@ -12,8 +12,15 @@
 * 分散 Distributed
 
 ### 資料探勘的工作
-* 預測方法 Prediction - 以其他屬性值，預測特定屬性值  
-* 敘述性方法 Description - 找出人類可以解釋的描述資料的樣式
++ 預測方法 Prediction - 以其他屬性值，預測特定屬性值  
+  + Classification
+  + Prediction
+  + Time - Series Analysis
++ 敘述性方法 Description - 找出人類可以解釋的描述資料的樣式
+  + Association
+  + Clustering
+  + Summarization
+  
 </br>
 
 ## 四種主要技術
