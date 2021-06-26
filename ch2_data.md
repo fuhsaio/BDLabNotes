@@ -67,11 +67,15 @@
 + r 參數
   + r = 1，[漢明距離](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB)、[曼哈頓距離](https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%93%88%E9%A0%93%E8%B7%9D%E9%9B%A2)
   + r = 2，歐幾里德距離
-  + r = ∞，[切比雪夫距離](https://zh.wikipedia.org/wiki/%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E8%B7%9D%E7%A6%BB)
+  + r = ∞，[切比雪夫距離](https://zh.wikipedia.org/wiki/%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E8%B7%9D%E7%A6%BB) 
+    > e.g. 二維平面(k = 2)，max(|x1−x2|,|y1−y2|)
 + n 維度個數  
 + x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
 
 <img src="https://user-images.githubusercontent.com/86312099/123498642-de9efd80-d663-11eb-8aa1-b078d3a3d054.png">
+
+> 切比雪夫距離 ( r = ∞ )  
+> <img src="https://user-images.githubusercontent.com/86312099/123499494-d5b12a80-d669-11eb-9f86-2b3d475518a6.png">
 
 </br></br></br>
 
