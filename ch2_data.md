@@ -52,7 +52,7 @@
 > 最小的相異度 時常是 0  
 > 值介於 0 - ∞ (對象不同)  
 
-
+---
 ### 歐基里德 距離
 > 求兩點直線距離
 * n 維度個數 ( 屬性 )  
@@ -60,7 +60,7 @@
 
 <img src="https://user-images.githubusercontent.com/86312099/123497641-3d16ac80-d661-11eb-8045-28d3cc24b960.png">
 
-
+---
 
 ### Minkowski 距離
 > 由歐幾里德距離衍生
@@ -76,6 +76,24 @@
 > 切比雪夫距離 ( r = ∞ )  
 > <img src="https://user-images.githubusercontent.com/86312099/123499494-d5b12a80-d669-11eb-9f86-2b3d475518a6.png">
 
+</br>
+
+---
+### Mahalanobis 距離(待補充)
+---
+
+## Metric 度量(指標)
+> 當距離滿足以下條件，則稱為 metric
+
+歐基里德距離 為例 :
++ 正向性
+  + d(x,y) ≧ 0，對所有 x、y 而言
+  + d(x,y) ＝ 0，當 x = y
++ 對稱性
+  + d(x,y) = d(y,x)，對所有 x、y 而言
++ 三角不等式
+  + d(x,z) ≦ d(x,y) + d(y,z)，對所有 x、y、z 而言
+  
 </br></br></br>
 
 # 資料前處理 Pre-Processing
