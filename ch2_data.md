@@ -54,6 +54,14 @@
 
 
 ### 歐基里德 距離
+> 求兩點直線距離
+* n 維度個數  
+* x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
+
+<img src="https://user-images.githubusercontent.com/86312099/123497641-3d16ac80-d661-11eb-8045-28d3cc24b960.png" >
+
+
+
 ### Minkowski 距離
 
 </br></br></br>
