@@ -52,6 +52,13 @@
 > 最小的相異度 時常是 0  
 > 值介於 0 - ∞ (對象不同)  
 
+## 相關係數 Correlation coefficient
+### Pearson
+### Cosine
+### SMC
+### Jaccard
+### Extended Jaccard ( Tanimoto )
+
 ---
 ### 歐基里德 距離
 > 求兩點直線距離
