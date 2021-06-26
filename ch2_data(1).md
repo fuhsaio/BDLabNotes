@@ -41,7 +41,7 @@
 
 </br></br></br>
 
-# 相似度和距離 Similarity and Distance (待補充 未完成)
+# 相似度和距離 Similarity and Distance
 ### 鄰近度 proximity
 > 表示兩個物件的 相似 與 不相似度
 ### 相似度 Similarity
