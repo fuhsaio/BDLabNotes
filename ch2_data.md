@@ -55,7 +55,7 @@
 
 ### 歐基里德 距離
 > 求兩點直線距離
-* n 維度個數  
+* n 維度個數 ( 屬性 )  
 * x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
 
 <img src="https://user-images.githubusercontent.com/86312099/123497641-3d16ac80-d661-11eb-8045-28d3cc24b960.png">
@@ -67,9 +67,8 @@
 + r 參數
   + r = 1，[漢明距離](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB)、[曼哈頓距離](https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%93%88%E9%A0%93%E8%B7%9D%E9%9B%A2)
   + r = 2，歐幾里德距離
-  + r = ∞，[切比雪夫距離](https://zh.wikipedia.org/wiki/%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E8%B7%9D%E7%A6%BB) 
-    > e.g. 二維平面(k = 2)，max(|x1−x2|,|y1−y2|)
-+ n 維度個數  
+  + r = ∞，[切比雪夫距離](https://zh.wikipedia.org/wiki/%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E8%B7%9D%E7%A6%BB)     
++ n 維度個數 ( 屬性 ) 
 + x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
 
 <img src="https://user-images.githubusercontent.com/86312099/123498642-de9efd80-d663-11eb-8aa1-b078d3a3d054.png">
