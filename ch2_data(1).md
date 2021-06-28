@@ -90,6 +90,10 @@
 ---
 
 ### Mahalanobis 距離(待補充)
+> 一種有效的計算兩個未知樣本集的相似度的方法
+> 與歐氏距離不同的是它考慮到各種特性之間的聯繫並且是尺度無關的
+
+**協方差矩陣** [Covariance Matrix](https://www.itread01.com/content/1542789723.html)
 
 </br></br></br>
 
