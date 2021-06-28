@@ -64,7 +64,7 @@
 </br>
 
 ---
-### 歐基里德 距離
+### Euclidean 距離
 > 求兩點直線距離
 * n 維度個數 ( 屬性 )  
 * x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
@@ -89,16 +89,21 @@
 
 ---
 
-### Mahalanobis 距離(待補充)
-> 一種有效的計算兩個未知樣本集的相似度的方法
+### Mahalanobis 距離
+> 一種有效的計算兩個未知樣本集的相似度的方法  
 > 與歐氏距離不同的是它考慮到各種特性之間的聯繫並且是尺度無關的
 
+&nbsp;&nbsp; Σ is the [covariance matrix](https://www.itread01.com/content/1542789723.html)
+
+<img src ="https://user-images.githubusercontent.com/86312099/123632842-fd131d80-d84a-11eb-9ef2-c83b00477d41.png" width="430px" height="">
 
 </br>
 
-**協方差矩陣** [Covariance Matrix](https://www.itread01.com/content/1542789723.html)
+**協方差矩陣 Covariance Matrix**
 > 協方差(i,j)=（第i列的所有元素-第i列的均值）*（第j列的所有元素-第j列的均值）
 <img src="https://user-images.githubusercontent.com/86312099/123630403-123a7d00-d848-11eb-8f1a-38cd1c9c9a76.png" width="420" height="50">
+
+---
 
 </br></br></br>
 
