@@ -19,7 +19,12 @@ each outcome having probability : **p1, p2 … pn**
 
 # Mutual Information
 ### 𝐼(𝑋,𝑌) = 𝐻(𝑋) + 𝐻(𝑌) − 𝐻(𝑋,𝑌)
-> H(X,Y) is the join entropy of X and Y, 
+> H(X,Y) is the join entropy of X and Y
+
+</br>
+
+## Example
+<img src ="https://user-images.githubusercontent.com/86312099/123641245-a27ebf00-d854-11eb-87ea-87987ff94eea.png">
 
 
 
