@@ -46,14 +46,14 @@
 > 表示兩個物件的 相似 與 不相似度
 ### 相似度 Similarity
 > 數值越大，物件越像  
-> 值介於 0 - 1
+> 值通常 介於 0 - 1
 ### 不相似度 Dissimilarity
 > 數值 ( 距離 ) 越大，物件差異越大  
 > 最小的相異度 時常是 0  
-> 值介於 0 - ∞ (對象不同)  
+> 值通常 介於 0 - ∞ (對象不同)  
 
 ## 運算
-
+> 不同相關係數公式 得出數值範圍不一。 e.g. Pearson 介於 -1 ~ 1  
 > SMC、Jaccard 僅用於 二元屬性的資料  
 + **Pearson**
 + **Cosine**
@@ -69,7 +69,7 @@
 * n 維度個數 ( 屬性 )  
 * x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
 
-<img src="https://user-images.githubusercontent.com/86312099/123497641-3d16ac80-d661-11eb-8045-28d3cc24b960.png">
+<img src="https://user-images.githubusercontent.com/86312099/123497641-3d16ac80-d661-11eb-8045-28d3cc24b960.png" width="350px" height="150px">
 
 ---
 
@@ -82,10 +82,10 @@
 + n 維度個數 ( 屬性 ) 
 + x<sub>k</sub>、y<sub>k</sub>，指其第 k 個屬性
 
-<img src="https://user-images.githubusercontent.com/86312099/123498642-de9efd80-d663-11eb-8aa1-b078d3a3d054.png">
+<img src="https://user-images.githubusercontent.com/86312099/123498642-de9efd80-d663-11eb-8aa1-b078d3a3d054.png" width="370px" height="150px">
 
 > 切比雪夫距離 ( r = ∞ )  
-> <img src="https://user-images.githubusercontent.com/86312099/123499494-d5b12a80-d669-11eb-9f86-2b3d475518a6.png">
+> <img src="https://user-images.githubusercontent.com/86312099/123499494-d5b12a80-d669-11eb-9f86-2b3d475518a6.png" width="380px" height="150px">
 
 ---
 
@@ -95,7 +95,7 @@
 
 &nbsp;&nbsp; Σ is the [covariance matrix](https://www.itread01.com/content/1542789723.html)
 
-<img src ="https://user-images.githubusercontent.com/86312099/123632842-fd131d80-d84a-11eb-9ef2-c83b00477d41.png" width="430px" height="">
+<img src ="https://user-images.githubusercontent.com/86312099/123632842-fd131d80-d84a-11eb-9ef2-c83b00477d41.png" width="430px" height="50px">
 
 </br>
 
