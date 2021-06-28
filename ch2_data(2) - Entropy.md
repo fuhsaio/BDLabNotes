@@ -3,6 +3,8 @@
 > 熵 是隨機變量不確定性的度量，不確定性越大，熵值越大  
 > 若隨機變量退化成定值，熵為 0
 
+[Entropy and bit 關連](https://hackmd.io/@sXG2cRDpRbONCsrtz8jfqg/ry-0k0PwH) 
+
 </br></br>
 
 <img src="https://user-images.githubusercontent.com/86312099/123638361-ae1cb680-d851-11eb-8456-c635549bd32d.png" width="" height="">
