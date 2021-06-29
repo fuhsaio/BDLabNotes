@@ -47,7 +47,8 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 </br>
 
 ## Methods for Expressing Test Conditions
-> 屬性測試條件的表示方法
+> 屬性測試條件的表示方法  
+> 這裡提到的屬性類型 與 資料的四大量度 不完全相同
 
 + **屬性類型 attribute types**
   + Binary
