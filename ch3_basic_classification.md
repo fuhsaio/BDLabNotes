@@ -28,10 +28,18 @@
 
 </br>
 
-## Induction Algorithms 演算法
+## Induction Algorithms 歸納演算法
 * **Hunt’s Algorithm** ( one of the earliest )
 * **CART**
 * **ID3, C4.5**
 * **SLIQ,SPRINT**
 
 ### Hunt’s Algorithm
+
+> 用遞廻的方式不斷地將訓練資料分割至後繼的子集合中
+
+### 遞迴 方式
+Step1 : Dt 的所有資料都屬於 相同類別 ，那麼 t 為一葉節點(Yt)  
+Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條件，將資料分至更小集合
+> Dt 為節點 t 相關的訓練資料  
+> Y = {y1,y2...yn} 為 類別標記
