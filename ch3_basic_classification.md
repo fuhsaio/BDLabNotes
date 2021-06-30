@@ -67,8 +67,13 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 > Nodes with **purer** class distribution are preferred
  
 ### Measures of Node Impurity 節點雜質
-+ Gini Index
-+ Entropy
-+ Misclassification error
++ **Gini Index**
++ **Entropy**
++ **Misclassification error**
+
+### Gain = P - M
+> **choose the highest gain or lowest impurity ( M )**  
+> P -  impurity before splitting  
+> M - impurity after splitting
 
  
