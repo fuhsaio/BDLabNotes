@@ -66,7 +66,7 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 ## How to determine the Best Split
 > Nodes with **purer** class distribution are preferred
  
-### Measures of Node Impurity 節點雜質
+### Measures of Node Impurity
 + **Gini Index**
 + **Entropy**
 + **Misclassification error**
