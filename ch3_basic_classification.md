@@ -67,7 +67,7 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 > Nodes with **purer** class distribution are preferred
  
 ### Measures of Node Impurity
-+ **Gini Index**
++ [**Gini Index**](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Gini-Index.pdf)
 + **Entropy**
 + **Misclassification error**
 
