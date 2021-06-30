@@ -60,4 +60,15 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
     > 2-way split，分成 兩個子集，若為 ordinal type 拆分後會保留順序性
   + Multi-way split
     > 拆分成 n 個子集 ( n > 2 ) 
+ 
+ </br>
+ 
+## How to determine the Best Split
+> Nodes with **purer** class distribution are preferred
+ 
+### Measures of Node Impurity 節點雜質
++ Gini Index
++ Entropy
++ Misclassification error
 
+ 
