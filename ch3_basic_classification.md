@@ -76,4 +76,6 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 > P -  impurity before splitting  
 > M - impurity after splitting
 
+[Gain Ratio (p5、6)](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Entropy.pdf)
+
  
