@@ -67,9 +67,13 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 > Nodes with **purer** class distribution are preferred
  
 ### Measures of Node Impurity
+> [Comparison among Impurity Measures](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Comparison%20among%20Impurity%20Measures.pdf)
+
 + [**Gini Index**](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Gini-Index.pdf)
 + [**Entropy**](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Entropy.pdf)
 + [**Misclassification error**](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Classification-Error.pdf)
+
+
 
 ### Gain = P - M
 > **choose the highest gain or lowest impurity ( M )**  
