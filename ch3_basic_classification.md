@@ -71,6 +71,8 @@ Step2 : Dt 包含一個類別以上的資料，會再選取一個屬性測試條
 + **Entropy**
 + **Misclassification error**
 
+### Gini Index
+
 ### Gain = P - M
 > **choose the highest gain or lowest impurity ( M )**  
 > P -  impurity before splitting  
