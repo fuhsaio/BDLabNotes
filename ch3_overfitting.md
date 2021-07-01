@@ -17,3 +17,10 @@
 * model 太過複雜
 * 訓練集 錯誤率降低、但測試集 錯誤率提高
 * 多重比較規則 Multiple Comparison Procedure
+
+</br>
+
+### Validation Set 驗證集
+Divide training data into two parts :
+* Training set
+* Validation Set
