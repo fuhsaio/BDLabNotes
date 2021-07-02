@@ -47,13 +47,13 @@
 ## Model Evaluation
 > 模型評估
 
-holdout
+### holdout
 > 將原始資料分成訓練集和測試集，分類膜是由訓練集形成，測試集評估
 
-subsampling
+### subsampling
 > 重複 holdout，調整訓練與測試集比例 改善分類效果的估計
 
-cross-validation
+### cross-validation
 > 交叉驗證
 > 將資料分成 不相交的兩個區塊，一個作訓練集、一個作測試集。
 > 完成後兩個資料角色再互換
