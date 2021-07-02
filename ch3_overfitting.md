@@ -36,6 +36,7 @@
 </br>
 
 ## Model Selection for Decision Trees
+> [參考影片解說](https://www.youtube.com/watch?v=u4kbPtiVVB8)
 ### Pre-Pruning
 > 可用在發展決策樹的過程中，一方面可完全學習訓練資料，一方面可避免在過度學習的情形下先停止學習
 
