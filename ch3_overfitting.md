@@ -18,7 +18,7 @@
 
 </br>
 
-## Model Selection (連結資料未放)
+## Model Selection
 > 選擇適當的模型，需要估計 generalization error 來判斷
 
 ### 1. Using Validation Set
@@ -36,6 +36,23 @@
 </br>
 
 ## Model Selection for Decision Trees
-### [Pre-Pruning (Early Stopping Rule)]()
-### [Post-pruning]()
+### Pre-Pruning
+> 可用在發展決策樹的過程中，一方面可完全學習訓練資料，一方面可避免在過度學習的情形下先停止學習
+
+### Post-pruning
+> 其決策樹可以任意發展，待決策樹建立完成後，再將不必要或多餘的分支修剪掉
+
+## Model Evaluation
+> 模型評估
+
+holdout
+> 將原始資料分成訓練集和測試集，分類膜是由訓練集形成，測試集評估
+
+subsampling
+> 重複 holdout，調整訓練與測試集比例 改善分類效果的估計
+
+cross-validation
+> 交叉驗證
+> 將資料分成 不相交的兩個區塊，一個作訓練集、一個作測試集。
+> 完成後兩個資料角色再互換
 
