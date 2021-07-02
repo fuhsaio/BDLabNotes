@@ -27,11 +27,11 @@
 * Validation Set
 
 ### 2. Incorporating Model Complexity
-* [Estimating the Complexity of Decision Trees]()  
-* [Minimum Description Length (MDL)]()
+* [Estimating the Complexity of Decision Trees](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Estimating%20the%20Complexity%20of%20Decision%20Trees.pdf)  
+* [Minimum Description Length (MDL)](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Minimum%20Description%20Length%20(MDL).pdf)
 
 ### 3. Estimating Statistical Bounds
-* [Statistical Bounds]()
+* [Statistical Bounds](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Statistical%20Bounds.pdf)
 
 </br>
 
