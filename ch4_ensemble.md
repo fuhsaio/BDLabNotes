@@ -36,4 +36,16 @@
   
 示例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Boosting.pdf)
 
+## AdaBoost
+> 一種改進的Boosting分類算法。提高前幾個分類器分類錯誤樣本的權重  
+> 使用加權投票機制 取代 平均投票機制
+
+原理及示例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/AdaBoost.pdf)
+
+<br>
+
+---
+
+### 參考文章 - [連結](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ensemble-learning%E4%B9%8Bbagging-boosting%E5%92%8Cadaboost-af031229ebc3)
+
 
