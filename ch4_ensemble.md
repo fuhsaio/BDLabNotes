@@ -34,6 +34,6 @@
 + 專注於 分類錯誤的資料，因此對 noisy 很敏感，若訓練資料中 noisy 過多  
   後期分類器會集中在 noisy，反而降低 最終分類效果
   
-示例 - [連結]()
+示例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Boosting.pdf)
 
 
