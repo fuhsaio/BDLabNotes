@@ -24,6 +24,16 @@
 
 示例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Bagging.pdf)
 
+## Boosting
+> 透過關注先前錯誤分類的紀錄，自適應改善 訓練集分布的 迭代過程 (iterative)
 
++ 與 Bagging 不同的是:
+  + Boosting 每回合的分類器是有關連的
+  + 每筆資料的權重 不相同，在每回合結束後 改變 
++ 將分類錯誤的資料 權重加大，使分類器學習其特性 降低錯誤率
++ 專注於 分類錯誤的資料，因此對 noisy 很敏感，若訓練資料中 noisy 過多  
+  後期分類器會集中在 noisy，反而降低 最終分類效果
+  
+示例 - [連結]()
 
 
