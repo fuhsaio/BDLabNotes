@@ -22,7 +22,7 @@
 + 此抽樣的方法在統計上稱為 bootstrap  
 + 原始資料若有 noisy，可以降低不穩定性
 
-示例 - [連結]()
+示例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/Bagging.pdf)
 
 
 
