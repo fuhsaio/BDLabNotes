@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-示例 - [連結]()
+**範例** - [連結]()
 
 ### Accuracy
 > Accuracy 是找出 True Positive (TP) 和 True Negative (TN) 的情況  
@@ -47,5 +47,37 @@
 
 ## Alternative Measures
 > Precision（準確率）、 Recall（召回率）、 F Measure
+
+<table>
+  <tr>
+    <td></td>
+    <td>Predict Y</td>
+    <td>Predict N</td>
+  </tr>
+  <tr>
+  <tr>
+    <td>Actual Y</td>
+    <td>a ( TP )</td>
+    <td>b ( FN )</td>
+  </tr>
+  <tr>
+    <td>Actual N </td>
+    <td>c ( FP )</td>
+    <td>d ( TN )</td>
+  </tr>
+</table>
+
+#### Precision(p)
+> a / ( a + c )
+#### Recall(r) 
+> a / ( a + b )
+#### F-measure(F) 
+> 2rp / ( r + p ) = 2a / ( 2a + b + c )
+
+<br>
+
+**範例** - [連結]()
+
+
 
 
