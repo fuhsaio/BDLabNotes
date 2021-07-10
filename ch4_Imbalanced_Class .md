@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-**範例** - [連結]()
+**範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Accuracy.pdf)
 
 ### Accuracy
 > Accuracy 是找出 True Positive (TP) 和 True Negative (TN) 的情況  
@@ -76,7 +76,7 @@
 
 <br>
 
-**範例** - [連結]()
+**範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_AlternativeMeasures.pdf)
 
 
 
