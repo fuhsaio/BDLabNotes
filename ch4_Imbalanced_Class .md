@@ -94,7 +94,7 @@
 > 比較 真實類別 計算 ( TPR , FPR ) 值  
 > 將每輪得到的 ( TPR , FPR ) 值繪製即為 ROC 曲線 
 
-簡報範例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ROC.pdf)  
+**簡報範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ROC.pdf)  
 
 
 <br>
