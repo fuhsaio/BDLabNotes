@@ -95,14 +95,14 @@
 > 將每輪得到的 ( TPR , FPR ) 值繪製即為 ROC 曲線 
 
 簡報範例 - [連結]()  
-文章參考 - [連結](https://zhuanlan.zhihu.com/p/147919317)
+
 
 <br>
 
 ---
-
-**參考文章** - [連結](https://www.ycc.idv.tw/confusion-matrix.html)
-
+### 參考文章
+**Confusion Matrix 指標** - [連結](https://www.ycc.idv.tw/confusion-matrix.html)  
+**ROC曲線繪製** - [連結](https://zhuanlan.zhihu.com/p/147919317)
 
 
 
