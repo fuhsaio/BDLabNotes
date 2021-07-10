@@ -78,6 +78,26 @@
 
 **範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_AlternativeMeasures.pdf)
 
+<br>
+
+## ROC ( Receiver Operating Characteristic )
+> 是一個顯示真陽性比率（TPR）、及偽陽性比率（FPR）兩個值之間相互取捨的圖形
+
++ **( TPR , FPR )**
+  + ( 0 , 0 ) - 表示 模式預測每個資料為 負類別
+  + ( 1 , 1 ) - 表示 模式預測每個資料為 正類別
+  + ( 1 , 0 ) - 表示 理想模式 ( ideal )
+
+### 繪製 ROC曲線
+> 
+
+
+<br>
+
+---
+
+**參考文章** - [連結](https://www.ycc.idv.tw/confusion-matrix.html)
+
 
 
 
