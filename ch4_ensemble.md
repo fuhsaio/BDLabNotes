@@ -47,5 +47,6 @@
 ---
 
 ### 參考文章 - [連結](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ensemble-learning%E4%B9%8Bbagging-boosting%E5%92%8Cadaboost-af031229ebc3)
+### 參考文章 - [連結](http://violin-tao.blogspot.com/2018/01/ml-ensemble.html)
 
 
