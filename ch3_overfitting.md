@@ -59,3 +59,4 @@
 > 將資料分成 不相交的兩個區塊，一個作訓練集、一個作測試集。
 > 完成後兩個資料角色再互換
 
+**參考文章** - [連結](https://chih-sheng-huang821.medium.com/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
