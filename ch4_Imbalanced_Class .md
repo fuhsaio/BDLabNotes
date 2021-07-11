@@ -94,7 +94,23 @@
 > 比較 真實類別 計算 ( TPR , FPR ) 值  
 > 將每輪得到的 ( TPR , FPR ) 值繪製即為 ROC 曲線 
 
-**簡報範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ROC.pdf)  
+**範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ROC.pdf)  
+
+<br>
+
+## Cost Matrix
+> 成本矩陣與混淆矩陣相似，但成本矩陣用於 計算預測所需成本
+
+**範例** - [連結]()
+
+<br>
+
+## Cost Sensitive Classification
+> 將 少數類別分類成多數類別 所付出成本大於 多數類別分類成少數類別  
+> eg. 假陰性(漏診) 比 假陽性 更糟糕
+
+### Bayesian classifer ( 貝氏分類器 )
+[貝氏理論-分類法]()
 
 
 <br>
@@ -102,7 +118,9 @@
 ---
 ### 參考文章
 **Confusion Matrix 指標** - [連結](https://www.ycc.idv.tw/confusion-matrix.html)  
+**Confusion & Cost Matrix** - [連結](https://medium.com/@inivikrant/confusion-cost-matrix-helps-in-calculating-the-accuracy-cost-and-various-other-measurable-a725fb6b54e1)  
 **ROC曲線繪製** - [連結](https://zhuanlan.zhihu.com/p/147919317)
+
 
 
 
