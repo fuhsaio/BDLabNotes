@@ -40,6 +40,7 @@
 > 一種改進的Boosting分類算法。提高前幾個分類器分類錯誤樣本的權重  
 > 使用加權投票機制 取代 平均投票機制
 
+參數邏輯 - [連結](https://raw.githubusercontent.com/fuhsaio/BDLabNotes/main/src/310526.jpg)  
 原理及示例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/AdaBoost.pdf)
 
 <br>
