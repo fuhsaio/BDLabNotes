@@ -1,5 +1,7 @@
 # Artificial Neural Networks ( ANN )
-> 類神經網路
+> 類神經網路  
+> 當資料不是呈線性分布時，logistic 分類器的效果就會很差  
+> ANN 可以解決 資料對稱分布( [XOR Neural Network](https://github.com/fuhsaio/BDLabNotes/blob/main/src/XOR_network.png) )、無法簡易定義其特徵值 . . . [參考文章](http://terrence.logdown.com/posts/1132631-neural-networks-with-backpropagation-one-notes)
 
 ## 神經網路結構
 <img src ="https://user-images.githubusercontent.com/86312099/125405767-a9780680-e3ea-11eb-8d98-0bd9c50b4a4b.png" width="500">
@@ -48,7 +50,7 @@
 ---
 
 ### 文章參考
-ANN 系列鐵人賽 - [連結](https://ithelp.ithome.com.tw/articles/10201931)
+ANN 系列鐵人賽 - [連結](https://ithelp.ithome.com.tw/articles/10201931)  
 
 
 
