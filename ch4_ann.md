@@ -36,7 +36,8 @@
 **範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ann_perceptron.pdf)
 
 ### Backpropagation
-> 反向傳播
+> 反向傳播  
+> 搭配 梯度下降法（Gradient Descent）更新權重
 
 (1) 初始化神經網路所有權重  
 (2) 將資料由input layer往output layer向前傳遞運算(forward)計算出所有神經元的output  
