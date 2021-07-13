@@ -29,7 +29,7 @@
 
 
 ### Perceptron Learning Rule
-> Weight update
+> 初始化權重 Weight
 
 **範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ann_perceptron.pdf)
 
