@@ -33,6 +33,15 @@
 
 **範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ann_perceptron.pdf)
 
+### Backpropagation
+> 反向傳播
+
+(1) 初始化神經網路所有權重  
+(2) 將資料由input layer往output layer向前傳遞運算(forward)計算出所有神經元的output  
+(3) 計算誤差由output layer往input layer向後傳遞運算(backward)算出每個神經元對誤差的影響  
+(4) 用誤差影響去更新權重  
+重複 2、3、4 直到誤差收斂到夠小
+
 <br>
 
 
