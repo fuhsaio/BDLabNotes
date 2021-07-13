@@ -19,9 +19,27 @@
 <img src="https://user-images.githubusercontent.com/86312099/125406626-9dd90f80-e3eb-11eb-9d40-2b5fa5ae0d4e.png" width="250">
 </div>
 
+### 激活函數 activation functions 
+> 像是控制每個神經元傳遞的閥門，將線性數值轉為非線性  
+> eg. Sign函數 > 0 傳遞 1 ; < 0 傳遞 -1
+
+<img src="https://user-images.githubusercontent.com/86312099/125413503-ae2e2c06-4c80-4816-937b-f1a3dbc5f4c8.png" width="350">
+
+> 為什麼需要激活函數 - [影片](https://www.youtube.com/watch?v=tI9AbaBfnPc)
+
+
 ### Perceptron Learning Rule
-**範例** - [連結]()
+> Weight update
+
+**範例** - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_ann_perceptron.pdf)
 
 <br>
+
+
+---
+
+### 文章參考
+ANN 系列鐵人賽 - [連結](https://ithelp.ithome.com.tw/articles/10201931)
+
 
 
