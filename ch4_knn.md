@@ -22,6 +22,9 @@
 
 <br>
 
+### knn feature & efficiency
+> 相關特性及方法 - [簡報連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_knn_issue.pdf)
+
 ### Voronoi Diagram
 > 1 nearest-neighbor  
 > 每個鄰近的點的中垂線，形成 [Voronoi Diagram](http://web.ntnu.edu.tw/~algo/Neighbor.html)
