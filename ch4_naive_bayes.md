@@ -37,6 +37,7 @@
 
 問題及替代方式 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_issue.pdf)
 
+
 ### Naïve Bayes (Summary)
 + 可以處理不相關的屬性
 + 可以處理雜訊資料的問題
