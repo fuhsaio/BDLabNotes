@@ -45,4 +45,22 @@
 + 關聯度高的屬性可能會因為沒有滿足條件獨立的假設，而使得誤判率提高
   + 使用其他技術，例如貝葉斯信念網絡 (BBN)
 
+<br>
+
+## Bayesian Belief Networks
+> 貝氏信念網路 ( BNN )
+> 提供一組隨機變量之間概率關係的圖形
+
+貝氏網路結構是個 有向無環圖（Directed Acyclic Graph）  
+每個節點代表一個變量，弧代表屬性（資料變數）間的概率依賴關係
+
+> 範例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_BBN.pdf)
+
+<br>
+
+---
+### 參考文章
+貝氏分類器 - [連結](https://pyecontech.com/2020/02/27/bayesian_classifier/)  
+貝氏網路 - [連結](https://www.itread01.com/content/1546221436.html)
+
 
