@@ -1,0 +1,18 @@
+# Bayes Classifier 
+> 貝氏分類器 基於機率模型，假設每個特徵間互相獨立
+
+<br>
+
+## 條件機率、貝氏定理
+> 範例 - [連結]()
+<img src="https://user-images.githubusercontent.com/86312099/125765293-046f093f-8953-4359-b7ad-e21cd55accd4.png" width="400">
+
+<br>
+
+### Bayes Theorem for Classification
+> 特徵值( X1, X2,…, Xd )、目標( 預測類別 Y )  
+> 貝氏定理 計算每個類別機率 P( Y | X1, X2,…, Xd )  
+> 類別機率最大者 即為預測類別  
+
+範例 - [連結]()  
+
