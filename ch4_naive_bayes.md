@@ -29,5 +29,11 @@
 + **Discretization** - Partition the range into bins (桶)
 + **Probability density estimation** - [機率密度函數](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_continous_probability.pdf)
 
+<br>
 
+### Issues with Naïve Bayes Classifier
+> 若其中一個概率值為 0，整個表達式變為 0  
+> 除了簡單分數，需要其他 估計條件概率的方式
+
+問題及替代方式 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_issue.pdf)
 
