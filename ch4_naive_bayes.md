@@ -9,10 +9,14 @@
 
 <br>
 
-### Bayes Theorem for Classification
+## Bayes Theorem for Classification
 > 特徵值( X1, X2,…, Xd )、目標( 預測類別 Y )  
 > 貝氏定理 計算每個類別機率 P( Y | X1, X2,…, Xd )  
 > 類別機率最大者 即為預測類別  
 
 範例 - [連結]()  
+
+### Conditional Independence
+> 兩事件 A 和 B 在給定的另一事件 C 發生時條件獨立  
+> P ( A ⋂ B | Y ) = P( A | Y ) × P( B | Y ) 
 
