@@ -20,3 +20,14 @@
 > 兩事件 A 和 B 在給定的另一事件 C 發生時條件獨立  
 > P ( A ⋂ B | Y ) = P( A | Y ) × P( B | Y ) 
 
+<br>
+
+## Estimate Probabilities from Data
+> 連續型數值資料 需要經過處理才能計算 概率分布
+
+### Continuous attributes
++ **Discretization** - Partition the range into bins (桶)
++ **Probability density estimation** - [機率密度函數]()
+
+
+
