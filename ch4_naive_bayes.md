@@ -27,7 +27,7 @@
 
 ### Continuous attributes
 + **Discretization** - Partition the range into bins (桶)
-+ **Probability density estimation** - [機率密度函數]()
++ **Probability density estimation** - [機率密度函數](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_continous_probability.pdf)
 
 
 
