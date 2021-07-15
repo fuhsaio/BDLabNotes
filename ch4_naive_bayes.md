@@ -37,3 +37,10 @@
 
 問題及替代方式 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_issue.pdf)
 
+### Naïve Bayes (Summary)
++ 可以處理不相關的屬性
++ 可以處理雜訊資料的問題
++ 在模式建立以及分類的時候忽略掉遺漏值
++ 關聯度高的屬性可能會因為沒有滿足條件獨立的假設，而使得誤判率提高
+
+
