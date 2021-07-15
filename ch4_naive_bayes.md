@@ -4,7 +4,7 @@
 <br>
 
 ## 條件機率、貝氏定理
-> 範例 - [連結]()
+> 範例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_Theorem.pdf)
 <img src="https://user-images.githubusercontent.com/86312099/125765293-046f093f-8953-4359-b7ad-e21cd55accd4.png" width="400">
 
 <br>
@@ -14,7 +14,7 @@
 > 貝氏定理 計算每個類別機率 P( Y | X1, X2,…, Xd )  
 > 類別機率最大者 即為預測類別  
 
-範例 - [連結]()  
+範例 - [連結](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_Bayes_eg.pdf)  
 
 ### Conditional Independence
 > 兩事件 A 和 B 在給定的另一事件 C 發生時條件獨立  
