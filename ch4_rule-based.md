@@ -50,7 +50,7 @@
 
 ### Direct Method
 > 直接從數據中用 [連續覆蓋( Sequential Covering )](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_rule_sequential_covering.pdf) 尋找規則  
-> 並用 Greedy 方式成長 - [RIPPER](), CN2, Holte’s 1R
+> 並用 Greedy 方式成長 - [RIPPER](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_RIPPER.pdf), CN2, Holte’s 1R
 ### Indirect Method
 > 從其他分類模型中提取規則 - [C4.5]()  
 > decision trees, neural networks
