@@ -55,9 +55,17 @@
 > 從其他分類模型中提取規則 - [C4.5]()  
 > decision trees, neural networks
 
+<br>
 
+### Advantages of Rule-Based Classifiers
+> 規則分類與決策數有差不多水準的表現、效率
+> 易於解釋及處理 redundant attributes
+> 適合處理 imbalanced classes
+
+<br>
 
 ---
+
 ### 參考文章
 Rule-based_Direct Method - [連結](http://123android.blogspot.com/2011/11/111103-data-mining.html)  
 Rule-based_Indirect Method - [連結](http://123android.blogspot.com/2011/11/10nov11-data-mining.html)  
