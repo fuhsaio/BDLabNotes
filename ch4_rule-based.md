@@ -52,14 +52,14 @@
 > 直接從數據中用 [連續覆蓋( Sequential Covering )](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_rule_sequential_covering.pdf) 尋找規則  
 > 並用 Greedy 方式成長 - [RIPPER](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_RIPPER.pdf), CN2, Holte’s 1R
 ### Indirect Method
-> 從其他分類模型中提取規則 - [C4.5]()  
+> 從其他分類模型中提取規則 - [C4.5](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_C4.5rule.pdf)  
 > decision trees, neural networks
 
 <br>
 
 ### Advantages of Rule-Based Classifiers
-> 規則分類與決策數有差不多水準的表現、效率
-> 易於解釋及處理 redundant attributes
+> 規則分類與決策數有差不多水準的表現、效率  
+> 易於解釋及處理 redundant attributes  
 > 適合處理 imbalanced classes
 
 <br>
