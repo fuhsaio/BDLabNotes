@@ -61,7 +61,7 @@
 ### 參考文章
 Rule-based_Direct Method - [連結](http://123android.blogspot.com/2011/11/111103-data-mining.html)  
 Rule-based_Indirect Method - [連結](http://123android.blogspot.com/2011/11/10nov11-data-mining.html)  
-Rule-based vs. NLU - [連結](https://medium.com/@estelle.husky/rule-based-vs-nlu-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E8%81%BD%E6%87%82%E4%BA%BA%E9%A1%9E%E7%9A%84%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80-17065de49a)
+Rule-based vs. NLU - [連結](https://medium.com/@estelle.husky/rule-based-vs-nlu-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E8%81%BD%E6%87%82%E4%BA%BA%E9%A1%9E%E7%9A%84%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80-17065de49a)  
 RIPPER - [連結](https://www.csee.usf.edu/~lohall/dm/ripper.pdf)
 
 
