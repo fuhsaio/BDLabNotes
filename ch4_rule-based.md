@@ -2,8 +2,6 @@
 > 透過建立 " if ... then ..." 規則進行分類  
 > 規則 : anteceden ( 前因 ) => consequent ( 後果 )
 
-<br>
-
 ## Rule Coverage and Accuracy
  
 <img src="https://user-images.githubusercontent.com/86312099/125877617-193e2be2-852d-41bd-bdff-795c5be2edce.png" width="300"> 
@@ -40,13 +38,22 @@
 <br>
 
 ### Ordered Rule Set
-> 規則 按照優先級排序 - [範例](https://user-images.githubusercontent.com/86312099/125884828-45d5e3cc-6449-45ed-ab50-86b89de9da31.png)
+> 規則 按照優先級採用 - [範例](https://user-images.githubusercontent.com/86312099/125884828-45d5e3cc-6449-45ed-ab50-86b89de9da31.png)
 
 ### Rule Ordering Schemes
-> Rule-based ordering (規則排序)、Class-based ordering (分類排序) - [範例](https://user-images.githubusercontent.com/86312099/125885635-169e3b6d-4998-47be-9a7f-f320acf9c493.png)
+> Rule-based ordering (規則排序)  、 Class-based ordering (分類排序) - [範例](https://user-images.githubusercontent.com/86312099/125885635-169e3b6d-4998-47be-9a7f-f320acf9c493.png)  
 
+<br><br>
 
+## Building Classification Rules
+> 分類規則的建立
 
+### Direct Method
+> 直接從數據中提取規則  
+> RIPPER, CN2, Holte’s 1R
+### Indirect Method
+> 從其他分類模型中提取規則  
+> decision trees, neural networks
 
 
 
