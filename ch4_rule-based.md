@@ -46,7 +46,7 @@
 <br><br>
 
 ## Building Classification Rules
-> 分類規則的建立
+> 分類規則的建立 - 簡報( [Diret](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_rule_directppt.pdf)、[Indirect](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_rule_indirectppt.pdf) )
 
 ### Direct Method
 > 直接從數據中用 [連續覆蓋( Sequential Covering )](https://github.com/fuhsaio/BDLabNotes/blob/main/src/ch4_rule_sequential_covering.pdf) 尋找規則  
