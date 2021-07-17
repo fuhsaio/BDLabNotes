@@ -27,6 +27,9 @@
 
 <img src="https://user-images.githubusercontent.com/86312099/126026508-11a05d41-8a31-4712-9275-e0f1ededfe69.png" width="550">
 
+> Φ( x ) 為映射函數  
+> Φ( x ) ● Φ( y ) 為 x , y 映射到特徵空間上的內積
+
 <img src="https://user-images.githubusercontent.com/86312099/126026488-77d0a848-6530-49a5-8cf9-6cc670e83f34.png" width="550">
 
 ## Nonlinear SVM Issues
@@ -35,8 +38,17 @@
 > Most computations involve dot product  Φ( x<sub>i</sub> ) ● Φ( x<sub>j</sub> )
 
 ## Kernel Trick
->  Φ( x<sub>i</sub> ) ● Φ( x<sub>j</sub> ) = k ( x<sub>i</sub> , x<sub>j</sub> )
->  K(xi, xj) is a kernel function ( )
+>  Φ( x<sub>i</sub> ) ● Φ( x<sub>j</sub> ) = k ( x<sub>i</sub> , x<sub>j</sub> )  
+>  K(xi, xj) is a kernel function 核函數( 用原始空間座標表示 )
+
+### Advantages of using kernel
+> 不必知道 mapping function Φ  
+> 在原始空間計算 點積 - Φ(x<sub>i</sub> ) ● Φ( x<sub>j</sub> )，避免高維詛咒
+
+### Not all functions can be kernels
+> 必須確保在某個高維空間中存在對應的Φ  
+> [Mercer’s theorem](https://kknews.cc/zh-tw/news/ry92m4.html)
+
 
 
 
